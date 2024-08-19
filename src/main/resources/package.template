@@ -1,0 +1,11 @@
+{
+  "name": "CustomDateManager",
+  "label": "[[label]]",
+  "description": "[[description]]",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "author": "Arebil",
+  "commands": []
+}
